@@ -26,18 +26,18 @@ to be done
 ### CNN
 
 #### LeNet && AlexNet
-![alt text](image.png)
+![alt text](Image/image.png)
 #### VGG && NiN
-![alt text](image-2.png)
+![alt text](Image/image-2.png)
 #### GooGleNet
-![alt text](image-3.png)
-![alt text](image-5.png)
+![alt text](Image/image-3.png)
+![alt text](Image/image-5.png)
 #### ResNet
-![alt text](image-6.png)
-![alt text](image-7.png)
-![alt text](image-8.png)
+![alt text](Image/image-6.png)
+![alt text](Image/image-7.png)
+![alt text](Image/image-8.png)
 #### DenseNet
-![alt text](image-9.png)
+![alt text](Image/image-9.png)
 
 
 ### RNN
