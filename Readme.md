@@ -54,3 +54,4 @@ to be done
 ##### Batch Normalization
 #### DropOut
 #### GradClipping
+#### BeamSearch
