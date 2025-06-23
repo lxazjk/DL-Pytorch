@@ -7,12 +7,12 @@ to be done
 | Date      | Content    | To-Do-List            | Check |
 | --------- | ---------- | --------------------- | ----- |
 | 2024.8.17 | RNN        | notes to be completed | Done  |
-| 2024.8.18 | modern-CNN | notes to be completed |       |
-| 2024.8.18 | modern-RNN | notes to be completed |       |
-| 2024.8.19 | attention  | project to be done    |       |
-| 2024.8.20 | bert       | project to be started |       |
-| 2024.8.22 | CV         | project to be started |       |
-| 2024.8.24 | GNN        | project to be started |       |
+| 2024.8.18 | modern-CNN | notes to be completed | Done  |
+| 2024.8.18 | modern-RNN | notes to be completed | Done  |
+| 2024.8.19 | attention  | project to be done    | Done  |
+| 2024.8.20 | bert       | project to be started | Done  |
+| 2024.8.22 | CV         | project to be started | Done  |
+| 2024.8.24 | GNN        | project to be started | Done  |
 
 ## OutLine
 1. MLP
