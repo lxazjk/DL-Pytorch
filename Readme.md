@@ -22,38 +22,3 @@ to be done
 5. CV
 6. GNN
 7. Trick
-
-### MLP
-
-### CNN
-
-#### LeNet && AlexNet
-![alt text](Image/image.png)
-#### VGG && NiN
-![alt text](Image/image-2.png)
-#### GooGleNet
-![alt text](Image/image-3.png)
-![alt text](Image/image-5.png)
-#### ResNet
-![alt text](Image/image-6.png)
-![alt text](Image/image-7.png)
-![alt text](Image/image-8.png)
-#### DenseNet
-![alt text](Image/image-9.png)
-
-
-### RNN
-
-### Transformer
-
-### CV
-
-### GNN
-
-
-### Trick
-
-##### Batch Normalization
-#### DropOut
-#### GradClipping
-#### BeamSearch
